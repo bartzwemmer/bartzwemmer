@@ -1,5 +1,8 @@
 ## Hi there 👋
+I'm a data engineer, with an interest in open source data stacks, desiging systems and building things. 
+Next to that, I enjoy playing basketball, [photography](https://bzwemmer.com) and nature 🌱. 
 
+Connect on [LinkedIn](https://www.linkedin.com/in/bzwemmer/).
 <!--
 **bartzwemmer/bartzwemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
